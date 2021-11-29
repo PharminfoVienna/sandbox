@@ -7,4 +7,4 @@ Coming soon
 
 # Sandbox
 
-[See at DockerHub](https://hub.docker.com/repository/docker/pharminfovienna/sandbox) 
+[See at DockerHub](https://hub.docker.com/r/pharminfovienna/sandbox) 
