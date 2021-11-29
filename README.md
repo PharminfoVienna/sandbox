@@ -22,7 +22,7 @@ At the appearing *Import* window, choose *Select file* and browse to the *.knwf-
 ## Step 3: Set up Python Environment
 The standardization of the compounds requires certain python libraries therefore KNIME needs to access the previously installed Environment (see *Step 0* - *Set up Python Environment*).
 ## Step 4: Configuration of the Workflow
-<b>A detailed description including illustrations of the different steps are given in the file: documentation_data_gathering_sandbox.docx</b> 
+A detailed description including illustrations of the different steps are given in the file: <b>*documentation_data_gathering_sandbox.docx*</b> 
 
 
 # PharminfoVienna Sandbox (Sandbox Docker)
