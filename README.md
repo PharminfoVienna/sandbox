@@ -21,6 +21,20 @@ Go to *File* -> *Import KNIME Workflow*
 At the appearing *Import* window, choose *Select file* and browse to the *.knwf-File
 ## Step 3: Set up Python Environment
 The standardization of the compounds requires certain python libraries therefore KNIME needs to access the previously installed Environment (see *Step 0* - *Set up Python Environment*).
+
+```conda create -n sandbox-env python=3.6```
+
+```conda activate sandbox-env```
+
+```conda install -c rdkit rdkit=2020.03.2.0```
+
+<b>Alternative for Linux:</b>
+
+```conda env create -f environment.yml```
+
+```conda activate sandbox-env```
+
+
 ## Step 4: Configuration of the Workflow
 A detailed description including illustrations of the different steps are given in the file: <b>*documentation_data_gathering_sandbox.docx*</b> 
 
